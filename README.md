@@ -156,7 +156,7 @@ Images are uploaded to Supabase Storage and referenced by their public URL — n
 
 If you run into any issues installing or using the app — crashes, login problems, missing images, or anything else — please reach out directly:
 
-📧 **muhammadhassanoffi@gmail.com**
+📧 **muhammadhassan.offi@gmail.com**
 
 When reporting an issue, it helps to include:
 - What you were trying to do
@@ -203,6 +203,6 @@ This project was built for educational/portfolio purposes. Feel free to explore 
 
 Built by **Muhammad Hassan** — BSCS student, FAST-NUCES.
 
-📧 muhammadhassanoffi@gmail.com
+📧 muhammadhassan.offi@gmail.com
 
 If you're a recruiter, fellow student, or just curious about the project, feel free to reach out!
